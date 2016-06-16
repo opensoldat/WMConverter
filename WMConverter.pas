@@ -89,7 +89,7 @@ begin
   end;
 
   // parse parameters
-  if HasOption('h', 'help') or (IniPath = '') then begin
+  if HasOption('h', 'help') or (IniPath = '') or (ParamCount < 1) then begin
     WriteHelp;
     Terminate;
     Exit;
