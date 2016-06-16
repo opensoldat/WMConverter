@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Windows i386 release"/>
+    <Units Count="16">
+      <Unit0>
+        <Filename Value="WMConverter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="87"/>
+        <CursorPos X="43" Y="108"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../Development/FreePascal/fpc/packages/fcl-base/src/custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="45" Y="731"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1793"/>
+        <CursorPos X="17" Y="1814"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/classes/compon.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="457"/>
+        <CursorPos X="3" Y="460"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../Development/FreePascal/fpc/packages/fcl-base/src/singleinstance.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="3" Y="72"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="257"/>
+        <CursorPos X="3" Y="272"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/unix/sysunixh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="5" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../Development/FreePascal/fpc/packages/fcl-base/src/inifiles.pp"/>
+        <UnitName Value="IniFiles"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos X="3" Y="231"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="198"/>
+        <CursorPos X="10" Y="219"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/sysutils/sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2633"/>
+        <CursorPos X="3" Y="2642"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/math.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="247"/>
+        <CursorPos X="23" Y="262"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="178"/>
+        <CursorPos X="22" Y="199"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1264"/>
+        <CursorPos X="11" Y="1285"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../Development/FreePascal/fpc/packages/rtl-objpas/src/inc/strutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="26" Y="30"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="9"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/sysutils/finah.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="10" Y="25"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit15>
+    </Units>
+    <JumpHistory Count="25" HistoryIndex="23">
+      <Position1>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="63" Column="8" TopLine="24"/>
+      </Position1>
+      <Position2>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="7" Column="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="76" Column="18" TopLine="49"/>
+      </Position3>
+      <Position4>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="20" Column="42"/>
+      </Position4>
+      <Position5>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="76" Column="53" TopLine="46"/>
+      </Position5>
+      <Position6>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="63" TopLine="37"/>
+      </Position6>
+      <Position7>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="43" Column="54" TopLine="25"/>
+      </Position7>
+      <Position8>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="44" Column="59" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="45" Column="51" TopLine="24"/>
+      </Position9>
+      <Position10>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="43" Column="35" TopLine="24"/>
+      </Position10>
+      <Position11>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="44" Column="5" TopLine="28"/>
+      </Position11>
+      <Position12>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="93" Column="10" TopLine="70"/>
+      </Position12>
+      <Position13>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="53" Column="3" TopLine="32"/>
+      </Position13>
+      <Position14>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="94" Column="22" TopLine="68"/>
+      </Position14>
+      <Position15>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="43" Column="41" TopLine="25"/>
+      </Position15>
+      <Position16>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="67" Column="58" TopLine="40"/>
+      </Position16>
+      <Position17>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="9" Column="47"/>
+      </Position17>
+      <Position18>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="67" Column="84" TopLine="40"/>
+      </Position18>
+      <Position19>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="115" Column="29" TopLine="13"/>
+      </Position19>
+      <Position20>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="43" Column="12" TopLine="13"/>
+      </Position20>
+      <Position21>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="83" Column="3" TopLine="55"/>
+      </Position21>
+      <Position22>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="44" Column="5" TopLine="10"/>
+      </Position22>
+      <Position23>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="8" Column="18"/>
+      </Position23>
+      <Position24>
+        <Filename Value="WMConverter.pas"/>
+        <Caret Line="9" Column="57"/>
+      </Position24>
+      <Position25>
+        <Filename Value="../../Development/FreePascal/fpc/rtl/objpas/sysutils/finah.inc"/>
+        <Caret Line="25" Column="10" TopLine="3"/>
+      </Position25>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
