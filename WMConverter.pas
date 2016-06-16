@@ -150,13 +150,16 @@ begin
 end;
 
 procedure TWMConverter.WriteHelp;
+var
+  ShortExeName: String;
 begin
-  { add your help code here }
-  writeln('Usage: ', ExtractFileName(ExeName), '[options] path/to/weapons.ini');
+  ShortExeName := ExtractFileName(ExeName);
+  writeln('Usage: ', ShortExeName, '[options] path/to/weapons.ini');
   writeln('Options: ');
   writeln('  -r or --realistic - force realistic mode');
   writeln('  -n or --normal    - force normal mode');
   writeln('  -w or --nobackup  - don''t do backup');
+  writeln('Example usage: ', ShortExeName, ' -n -w weapons.ini');
 end;
 
 var
