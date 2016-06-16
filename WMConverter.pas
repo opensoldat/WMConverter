@@ -112,6 +112,7 @@ begin
   SectionList := TStringList.Create;
   IniFile := TMemIniFile.Create(IniPath);
   IniFile.CacheUpdates := True;
+  DefaultFormatSettings.DecimalSeparator := '.';
   try
     IniFile.ReadSections(SectionList);
     for i := 0 to SectionList.Count - 1 do begin
